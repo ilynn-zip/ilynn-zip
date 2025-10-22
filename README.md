@@ -3,8 +3,8 @@
 <table border="0px">
   <tr>
     <td>
-      <img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=ilynn-zip&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><br>
-      <img  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ilynn-zip&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
+      <img height="220em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ilynn-zip&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><br>
+      <img height="220em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ilynn-zip&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
     </td>
     <td align="center">
       <img src="assets/mediocrates.png" alt="" width="65%" >
